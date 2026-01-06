@@ -5,17 +5,17 @@ const programs = [
   {
     title: "Strength Training",
     description: "Build muscle, increase strength, and transform your physique with our comprehensive weight training program.",
-    image: "https://www.facebook.com/photo.php?fbid=1460748252726535&set=pb.100063741233340.-2207520000&type=3",
+    image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=600&q=80",
   },
   {
     title: "Cardio & HIIT",
     description: "Burn calories and boost your metabolism with high-intensity interval training and cardio sessions.",
-    image: "https://www.facebook.com/photo.php?fbid=1429149292553098&set=pb.100063741233340.-2207520000&type=3",
+    image: "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=600&q=80",
   },
   {
     title: "Personal Training",
     description: "Get one-on-one attention from our expert trainers who create customized programs just for you.",
-    image: "https://www.facebook.com/photo.php?fbid=1247747487359947&set=pb.100063741233340.-2207520000&type=3",
+    image: "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&q=80",
   },
 ];
 
