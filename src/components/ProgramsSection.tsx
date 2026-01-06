@@ -1,8 +1,8 @@
 import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
-import strengthImg from "./assets/strength.jpg";
-import cardioImg from "./assets/cardio.jpg";
-import ptImg from "./assets/pt.jpg";
+import strengthImg from "@/assets/strength.jpg";
+import cardioImg from "@/assets/cardio.jpg";
+import ptImg from "@/assets/pt.jpg";
 
 const programs = [
   {
