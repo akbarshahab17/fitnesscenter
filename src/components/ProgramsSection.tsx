@@ -1,21 +1,24 @@
 import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
+import strengthImg from "./assets/strength.jpg";
+import cardioImg from "./assets/cardio.jpg";
+import ptImg from "./assets/pt.jpg";
 
 const programs = [
   {
     title: "Strength Training",
     description: "Build muscle, increase strength, and transform your physique with our comprehensive weight training program.",
-    image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=600&q=80",
+    image: strengthImg,
   },
   {
     title: "Cardio & HIIT",
     description: "Burn calories and boost your metabolism with high-intensity interval training and cardio sessions.",
-    image: "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=600&q=80",
+    image: cardioImg,
   },
   {
     title: "Personal Training",
     description: "Get one-on-one attention from our expert trainers who create customized programs just for you.",
-    image: "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=600&q=80",
+    image: ptImg,
   },
 ];
 
